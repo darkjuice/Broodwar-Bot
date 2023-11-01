@@ -1,5 +1,5 @@
 # Broodwar-Bot
-##Set up instruction
+## Set up instruction
 
 STARTcraft comes with a StarterBot written in C++ using BWAPI 4.4.0. This repo comes with BWAPI, and uses Injectory to launch StarCraft with BWAPI, so Chaoslauncher is not required.
 
